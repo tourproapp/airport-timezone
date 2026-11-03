@@ -1,0 +1,17 @@
+{
+  "name": "airport-timezone",
+  "version": "0.1.0",
+  "description": "IATA airport code to IANA timezone lookup. Zero dependencies.",
+  "license": "MIT",
+  "keywords": [
+    "iata",
+    "airport",
+    "timezone",
+    "iana",
+    "aviation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tourproapp/airport-timezone"
+  }
+}
